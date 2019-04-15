@@ -1,10 +1,10 @@
-#LIBRARY MANAGEMENT SYSTEM
+# LIBRARY MANAGEMENT SYSTEM
 
 This project demonstrate simple library management system using NodeJs and Mysql. It heavily uses sequelize js framework for schema modelling.
 
-##TECHNICAL REQUIREMENTS
+## TECHNICAL REQUIREMENTS
 
-###OPERATING SYSTEM
+### OPERATING SYSTEM
 1. Windows 98/2000/XP/7/8/10
 	-Pentium 366 MHz or higher 
 	-Minimum 1 GB of RAM
@@ -21,7 +21,7 @@ This project demonstrate simple library management system using NodeJs and Mysql
 2. NodeJS 6.x and above
 
 
-##HOW TO EXECUTE THE SYSTEM (WINDOWS/MACINTOSH/LINUX)
+## HOW TO EXECUTE THE SYSTEM (WINDOWS/MACINTOSH/LINUX)
 1.  Extract the project from arc180006_cs6360.zip (present in "Application" folder).
 2.  Open CMD/Console/Terminal from application root directory
 3.  Update the .env file with your credentials
